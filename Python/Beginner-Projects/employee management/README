@@ -1,0 +1,65 @@
+# Employee Management System
+
+A beginner-friendly command-line Employee Management System built with Python and Object-Oriented Programming (OOP).
+
+## 📌 Overview
+
+This project allows users to create employee profiles, store multiple employee objects, and search for employees using their unique IDs.
+
+It was built as a hands-on Python project to practise OOP concepts and problem-solving.
+
+## ✨ Features
+
+- Create new employee profiles
+- Store multiple employee objects in a list
+- Search for employees using their ID
+- Display employee information
+- Exit the program through the command-line interface
+
+## 🛠️ Technologies Used
+
+- Python 3
+- Object-Oriented Programming
+
+## 🧠 Concepts Practised
+
+- Classes and objects
+- Constructors (`__init__`)
+- Instance attributes
+- Lists and object storage
+- `while` and `for` loops
+- Conditional statements
+- Searching through objects
+- `break` and `for...else`
+
+## 📂 Project Structure
+
+```text
+Employee-Management/
+│
+├── main.py
+└── README.md
+```
+
+## ▶️ How to Run
+
+1. Make sure Python 3 is installed.
+2. Open the project directory in your terminal.
+3. Run:
+
+```bash
+python main.py
+```
+
+## 🚀 Future Improvements
+
+- Prevent duplicate employee IDs
+- Edit employee profiles
+- Delete employee records
+- Display all registered employees
+- Save employee data using JSON
+- Load previously saved employee records
+
+---
+
+**Status:** Beginner OOP project — ongoing learning and development.
